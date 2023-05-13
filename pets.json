@@ -1,8 +1,16 @@
 [
-    {
-      "id": "1",
-      "name": "Mike",
-      "age": "1",
-      "breed": "Shihtzu"
-    }
-  ]
+  {
+    "id": "1",
+    "name": "Mike",
+    "age": "1",
+    "Species": "dog",
+    "breed": "Shihtzu"
+  },
+  {
+    "id": "2",
+    "name": "Sullyvan",
+    "age": "3",
+    "Species": "Ferret",
+    "breed": "White"
+  }
+]
