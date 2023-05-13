@@ -4,14 +4,14 @@
       "id": "1",
       "name": "Mike",
       "age": "1",
-      "Species": "dog",
+      "species": "dog",
       "breed": "Shihtzu"
     },
     {
       "id": "2",
       "name": "Sullyvan",
       "age": "3",
-      "Species": "Ferret",
+      "species": "Ferret",
       "breed": "White"
     }
   ]
