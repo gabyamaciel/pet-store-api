@@ -12,5 +12,19 @@
     "age": "3",
     "species": "Ferret",
     "breed": "White"
+  },
+  {
+    "id": "3",
+    "name": "Oddie",
+    "age": "6",
+    "species": "Cat",
+    "breed": "Persa"
+  },
+  {
+    "id": "4",
+    "name": "Teodoro",
+    "age": "5",
+    "species": "Squirrel",
+    "breed": "Squirrel"
   }
 ]
